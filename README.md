@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Data Driven AI across Industry
 - 💬 Ask me about Petroleum Geoscience, FMCG, Semiconductor, Logistics, etc
-- 📫 How to reach me: [Your Email, Twitter handle, LinkedIn, etc.]
+- 📫 How to reach me: gian.antariksa@gmail.com
 
 
 ## 📊 My GitHub Stats
@@ -18,5 +18,4 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[linkedin]: https://www.linkedin.com/in/your-linkedin-username
-[twitter]: https://twitter.com/your-twitter-username
+[linkedin]: https://www.linkedin.com/in/antrks/
