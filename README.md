@@ -1,6 +1,6 @@
 # Hi there, I'm Gian Antariksa 👋
 
-## 🌱 I'm a [Your Role, e.g., Developer, Data Scientist, Designer]
+## 🌱 I'm a AI Scientist, ML Engineer, Data Scientist
 
 - 🔭 I’m currently working on Data Driven AI across Industry
 - 💬 Ask me about Petroleum Geoscience, FMCG, Semiconductor, Logistics, etc
