@@ -4,12 +4,6 @@
 
 I'm a Data Scientist | Artificial Intelligence Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, TensorFlow, PyTorch and Keras.
 
-- 🔭 I’m currently working on **Petroleum Geoscience**
-
-- 🌱 I’m currently learning **Quantum Computing**
-
-- 💬 Ask me about **Data Science, Machine Learning, AI**
-
 - 📫 How to reach me: **[linkedin](https://www.linkedin.com/in/antrks/)**
 
 ## 🛠️ My Skills
