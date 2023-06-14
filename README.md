@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Gian Antariksa!
 
-![Retro]([https://your-retro-theme-image-link](https://media.tenor.com/T6jl9sfhYgkAAAAd/gokushufudou.gif))
+![Retro](https://media.tenor.com/T6jl9sfhYgkAAAAd/gokushufudou.gif)
 
 I'm a Data Scientist | Artificial Intelligence Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, TensorFlow, PyTorch and Keras.
 
