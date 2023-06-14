@@ -10,7 +10,7 @@ I'm a Data Scientist | Artificial Intelligence Engineer who is passionate about 
 
 - 💬 Ask me about **Data Science, Machine Learning, AI**
 
-- 📫 How to reach me: **[linkedin]([gian.antariksa@gmail.com](https://www.linkedin.com/in/antrks/))**
+- 📫 How to reach me: **[linkedin](https://www.linkedin.com/in/antrks/)**
 
 ## 🛠️ My Skills
 
