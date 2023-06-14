@@ -71,12 +71,6 @@ I'm a Data Scientist | Artificial Intelligence Engineer who is passionate about 
   <!-- Add more badges from https://shields.io/ if needed -->
 </p>
 
-## 📈 My GitHub Stats
-
-![Your github stats](https://github-readme-stats.vercel.app/api?username=giantrksa)
-
-</details>
-
 ---
 ⭐️ From [Gian Antariksa](https://github.com/giantrksa)
 
